@@ -13,6 +13,6 @@ public class RestController {
 	}
   @RequestMapping("/cbit/customer")
    public String getValueForUser() {
-		return "I am customer class";
+		return "I am customer class ";
 	}
 }
